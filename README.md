@@ -50,7 +50,6 @@ $ cd /addres/to/project/folder
 $ python3 Main.py
 ```
 
-
 ## output example
 ### output of metric 1
 ![alt text](./output_metric_1.png?raw=true)
