@@ -21,7 +21,7 @@ we choose to use **karmozd(or tx)** and the **number of trades** for features to
 **lowerlimit < data < upperlimit**
 
 
-### hyperparameters for clustering:**
+### hyperparameters for clustering:
 
 **number of clusters = 4**
 
