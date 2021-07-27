@@ -9,11 +9,14 @@ These clusters are trained on the **ict6 challenge dataset** and you can downloa
 we choose to use **karmozd(or tx)** and the **number of trades** for features to train the model
 
 **normilization:**
-    **upper limit = Q3 + 1.5 * IQR**
-    **lower limit = Q3 - 1.5 * IQR**
-    **every data upper or lower than this threshold value have to remove from dataset**
-    **lowerlimit < data < upperlimit**
+
+**upper limit = Q3 + 1.5 * IQR**
+**lower limit = Q3 - 1.5 * IQR**
+
+**every data upper or lower than this threshold value have to remove from dataset**
+**lowerlimit < data < upperlimit**
 
 
 **hyperparameters for clustering:**
-    **number of clusters = 4**
+
+**number of clusters = 4**
