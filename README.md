@@ -6,6 +6,15 @@
 * [output example](#output-example)
 
 ## this was a project for ict6 challenge
+about this challenge:
+The ICT challenge is **the most popular** tournament between Programmers, with questions in different parts of computer science like: **A.i, Blockchain, web design, back-end development, and more...**
+**We got 3rd 🥉 place in this tournament**
+
+Country: **Iran**
+Date: **15th july 2021**
+Organizer: **ICT faculty, Sharif university of technology,  Tehran, Iran**
+Organize Website: http://ictchallenge.sharif.ir/
+
 # General info
 this project will **cluster** 4 classes of customers: **Legendary/Epic/Rare/Common customer**
 
