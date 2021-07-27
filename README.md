@@ -3,6 +3,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [output example](#output-example)
 
 ## this was a project for ict6 challenge
 # General info
@@ -40,3 +41,10 @@ $ cd /addres/to/project/folder
 $ python3 Main.py
 ```
 
+
+## output example
+### output of metric 1
+![alt text](./output_metric_1.png?raw=true)
+
+### output of metric 2
+![alt text](./output_metric_2.png?raw=true)
