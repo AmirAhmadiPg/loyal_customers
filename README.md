@@ -12,7 +12,9 @@ The ICT challenge is **the most popular** tournament between Programmers, with q
 
 Country: **Iran**
 Date: **15th july 2021**
+
 Organizer: **ICT faculty, Sharif university of technology,  Tehran, Iran**
+
 Organize Website: http://ictchallenge.sharif.ir/
 
 # General info
