@@ -5,7 +5,7 @@
 * [Setup](#setup)
 
 ## this was a project for ict6 challenge
-
+# General info
 this project will **cluster** 4 classes of customers: **Legendary/Epic/Rare/Common customer**
 
 These clusters are trained on the **ict6 challenge dataset** and you can download it from the repository (trade.csv).
